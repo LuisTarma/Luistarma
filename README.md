@@ -31,7 +31,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
 
 ---
@@ -40,10 +39,8 @@
 
 ### - ¿Que ando haciendo? ...
 
-- Aprendiendo Django.
-- Aprendiendo sobre desarrollo web.
-- Aprendiendo sobre patrones de diseño.
-- Tampoco me olvido de las BDs.
+- Aprendiendo Django, desarrollo web y patrones de diseño.
+- No me olvido de las BDs.
 
 ---
 
