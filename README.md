@@ -1,13 +1,11 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Luis :wave:
     <br><br>
     Programo cosas en Python 
-    <br><br>
-    Alguna vez aprenderemos a estar solos 
     <br><br>
     P.D. If you know what mean 'samante', you are my friend, if not never mind :stuck_out_tongue_winking_eye:
   </samp>
