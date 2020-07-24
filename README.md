@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Luis :wave:
