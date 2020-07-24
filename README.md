@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Luis :wave:
@@ -13,7 +13,7 @@
 
 <br>
 
-<details>
+<details align="center">
   <summary align="center"> <b> Stats que se dan por estos lares! </b> <i>(Expandir!)</i> </summary>
   
   <br>
@@ -22,7 +22,7 @@
 
 ---
 
-### - Languages and Tools...
+### - Lenguajes y Herramientas...
 
 <p align="center">
 
@@ -38,7 +38,7 @@
 
 </p>
 
-### - I'm currently...
+### - ¿Que ando haciendo? ...
 
 - Aprendiendo Django.
 - Aprendiendo sobre desarrollo web.
