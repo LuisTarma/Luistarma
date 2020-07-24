@@ -7,7 +7,7 @@
     <br><br>
     Programo cosas en Python 
     <br><br>
-    P.D. If you know what mean 'samante' you are my friend, if not never mind :stuck_out_tongue_winking_eye:
+    P.D. If you know what mean 'samante' you are my friend, if not, never mind :stuck_out_tongue_winking_eye:
   </samp>
 </p>
 
