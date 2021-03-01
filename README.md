@@ -39,8 +39,7 @@
 
 ### - ¿Que ando haciendo? ...
 
-- Aprendiendo Django, desarrollo web y patrones de diseño.
-- No me olvido de las BDs.
+- Aprendiendo Django
 
 ---
 
