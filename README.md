@@ -14,12 +14,6 @@
 <br>
 
 <details align="center">
-  <summary align="center"> <b> Stats que se dan por estos lares! </b> <i>(Expandir!)</i> </summary>
-  
-  <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=luistarma&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### - Lenguajes y Herramientas...
@@ -51,7 +45,7 @@
 
 <p align="center">
   <a href="https://twitter.com/luistarma"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+595972840472"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+hym"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
 <br>
